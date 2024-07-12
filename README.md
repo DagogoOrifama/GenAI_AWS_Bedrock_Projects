@@ -1,0 +1,1 @@
+# GenAI_AWS_Bedrock_Projects
