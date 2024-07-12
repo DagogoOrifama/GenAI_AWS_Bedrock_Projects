@@ -1,5 +1,5 @@
 # GenAI_AWS_Bedrock_Projects
-## Project 1: Text-to-Image Generation using AWS Lambda and Stable Diffusion
+## Project 1: Text-to-Image Generation using AWS Lambda and Stable Diffusion (image_generation.py)
 ### Description
 Developed an end-to-end solution for generating images from textual descriptions using a generative AI model (Stable Diffusion). The project integrates AWS Lambda for serverless execution, AWS Bedrock for model invocation, and Amazon S3 for storing the generated images.
 
@@ -22,7 +22,7 @@ Developed an end-to-end solution for generating images from textual descriptions
 Successfully deployed a scalable and efficient solution for generating images from text, reducing manual design time and providing high-quality outputs for various applications.
 
 
-## Project 2: Automated Code Generation using Generative AI
+## Project 2: Automated Code Generation using Generative AI (code_generation.py)
 ### Description
 Developed an automated code generation tool that creates code snippets based on user-provided instructions and programming language specifications. The solution leverages AWS Lambda for execution, AWS Bedrock for model invocation, and Amazon S3 for storing the generated code.
 
@@ -43,7 +43,7 @@ Developed an automated code generation tool that creates code snippets based on 
 ### Outcome
 Created a powerful tool that automates code generation, significantly reducing development time and improving coding efficiency. The tool is now used to assist developers in rapidly prototyping and implementing code.
 
-## Project 3: Meeting Notes Summarization using AI
+## Project 3: Meeting Notes Summarization using AI (meeting_summarization.py)
 ### Description
 Built an end-to-end solution to extract, process, and summarize meeting notes from multipart email messages. The project leverages AWS Lambda for serverless processing, AWS Bedrock for AI summarization, and Amazon S3 for storing the summarized notes.
 
