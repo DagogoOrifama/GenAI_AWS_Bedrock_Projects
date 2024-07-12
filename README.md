@@ -11,12 +11,12 @@ Error Handling and Optimization: Ensured robust error handling and optimized the
 
 ### Technologies Used
 * Python
-AWS Lambda
-AWS Bedrock
-Amazon S3
-Stable Diffusion
-JSON
-Base64
+* AWS Lambda
+* AWS Bedrock
+* Amazon S3
+* Stable Diffusion
+* JSON
+* Base64
 
 ### Outcome
 Successfully deployed a scalable and efficient solution for generating images from text, reducing manual design time and providing high-quality outputs for various applications.
