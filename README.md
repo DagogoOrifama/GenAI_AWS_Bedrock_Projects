@@ -27,10 +27,10 @@ Successfully deployed a scalable and efficient solution for generating images fr
 Developed an automated code generation tool that creates code snippets based on user-provided instructions and programming language specifications. The solution leverages AWS Lambda for execution, AWS Bedrock for model invocation, and Amazon S3 for storing the generated code.
 
 ### Key Responsibilities
-Generative AI for Code: Used Anthropic Claude-v2 model to generate programming code from natural language descriptions.
-End-to-End Solution: Designed and implemented the entire pipeline from user input processing to code generation and storage.
-Cloud Services Integration: Deployed the solution using AWS Lambda for serverless execution and Amazon S3 for persistent storage of generated code.
-Error Handling: Implemented robust error handling to ensure reliable operation and high availability.
+* **Generative AI for Code:** Used Anthropic Claude-v2 model to generate programming code from natural language descriptions.
+* **End-to-End Solution:** Designed and implemented the entire pipeline from user input processing to code generation and storage.
+* **Cloud Services Integration:** Deployed the solution using AWS Lambda for serverless execution and Amazon S3 for persistent storage of generated code.
+* **Error Handling:** Implemented robust error handling to ensure reliable operation and high availability.
 
 ### Technologies Used
 * Python
@@ -48,10 +48,10 @@ Created a powerful tool that automates code generation, significantly reducing d
 Built an end-to-end solution to extract, process, and summarize meeting notes from multipart email messages. The project leverages AWS Lambda for serverless processing, AWS Bedrock for AI summarization, and Amazon S3 for storing the summarized notes.
 
 ### Key Responsibilities
-* Text Extraction: Developed functionality to extract text from multipart email messages.
-* AI Summarization: Implemented AI-based summarization using Anthropic Claude-v2 model to generate concise summaries from lengthy meeting notes.
-* Cloud Integration: Utilized AWS Lambda for execution and Amazon S3 for storage, ensuring scalability and reliability.
-* Comprehensive Error Handling: Ensured the robustness of the solution with comprehensive error handling and logging.
+* **Text Extraction:** Developed functionality to extract text from multipart email messages.
+* **AI Summarization:** Implemented AI-based summarization using Anthropic Claude-v2 model to generate concise summaries from lengthy meeting notes.
+* **Cloud Integration:** Utilized AWS Lambda for execution and Amazon S3 for storage, ensuring scalability and reliability.
+* **Comprehensive Error Handling:** Ensured the robustness of the solution with comprehensive error handling and logging.
 
 ### Technologies Used
 * Python
