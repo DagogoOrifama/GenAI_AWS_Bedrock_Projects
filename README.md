@@ -20,3 +20,27 @@ Error Handling and Optimization: Ensured robust error handling and optimized the
 
 ### Outcome
 Successfully deployed a scalable and efficient solution for generating images from text, reducing manual design time and providing high-quality outputs for various applications.
+
+
+## Project 2: Automated Code Generation using Generative AI
+### Description
+Developed an automated code generation tool that creates code snippets based on user-provided instructions and programming language specifications. The solution leverages AWS Lambda for execution, AWS Bedrock for model invocation, and Amazon S3 for storing the generated code.
+
+### Key Responsibilities
+Generative AI for Code: Used Anthropic Claude-v2 model to generate programming code from natural language descriptions.
+End-to-End Solution: Designed and implemented the entire pipeline from user input processing to code generation and storage.
+Cloud Services Integration: Deployed the solution using AWS Lambda for serverless execution and Amazon S3 for persistent storage of generated code.
+Error Handling: Implemented robust error handling to ensure reliable operation and high availability.
+
+### Technologies Used
+* Python
+* AWS Lambda
+* AWS Bedrock
+* Amazon S3
+* Anthropic Claude-v2
+* JSON
+
+### Outcome
+Created a powerful tool that automates code generation, significantly reducing development time and improving coding efficiency. The tool is now used to assist developers in rapidly prototyping and implementing code.
+
+
